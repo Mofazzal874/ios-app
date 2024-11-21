@@ -28,7 +28,7 @@ A simple and user-friendly To-Do List app for iOS, designed to help you organize
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/todo-list-ios.git
+   git clone https://github.com/mofazzal874/ios-app.git
 2. Open the project in Xcode.
 3. Build and run the project on the iOS Simulator or a physical device.
 
